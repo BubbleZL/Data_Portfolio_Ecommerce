@@ -1,5 +1,3 @@
-<h1 align="center">Data Analytics Project Showcase</h1>
-
 This project features a business performance dashboard and a detailed analysis of e-commerce data to uncover key insights into revenue performance, growth trends, product sales dynamics, and regional performance. The following tools were utilized for efficient data manipulation and analysis:<br>
 
 - **SQL**: Data querying, extraction, and cleaning. [SQL script](script/E_Commerce_SQL.sql)  
