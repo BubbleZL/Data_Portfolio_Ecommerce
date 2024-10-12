@@ -2,13 +2,13 @@
 
 This project features a business performance dashboard and a detailed analysis of e-commerce data to uncover key insights into revenue performance, growth trends, product sales dynamics, and regional performance. The following tools were utilized for efficient data manipulation and analysis:<br>
 
-- **SQL**: Data querying, extraction, and cleaning. [SQL script](E_Commerce_SQL.sql)  
-- **Tableau**: Development of interactive dashboards for visual data storytelling. [Tableau workbook](Performance_Dashboard.twb)  
+- **SQL**: Data querying, extraction, and cleaning. [SQL script](script/E_Commerce_SQL.sql)  
+- **Tableau**: Development of interactive dashboards for visual data storytelling. [Tableau workbook](script/Performance_Dashboard.twb)  
 - **Excel**: Exploratory data analysis, growth analysis, and segmentation analysis.  
-- **Python**: Revenue forecasting and advanced statistical modeling. [Python script](sales_forecast.ipynb)  
+- **Python**: Revenue forecasting and advanced statistical modeling. [Python script](script/sales_forecast.ipynb)  
 
 ## Data Visualization
-![Business Performance Dashboard](dashboard.png)
+![Business Performance Dashboard](image/dashboard.png)
 
 ## Data Analysis and Insights
 
@@ -28,34 +28,34 @@ With only **11%** (354 merchants) of the 3,095 total merchants generated **70%**
 ### Growth Analysis
 **1. Sales Performance**
 <p align="center">
-  <img src="sales_trend.png" alt="Sales Performance" width="700">
+  <img src="image/sales_trend.png" alt="Sales Performance" width="700">
 </p>
   
 **2. Regional Sales and Growth Contribution**
 <p align="center">
-  <img src="growth_state.png" alt="Regional Sales and Growth Contribution" width="700">
+  <img src="image/growth_state.png" alt="Regional Sales and Growth Contribution" width="700">
 </p>  
 
 **3. Category Sales and Growth Contribution**
 <p align="center">
-  <img src="growth_category.png" alt="Category Sales and Growth Contribution" width="700">
+  <img src="image/growth_category.png" alt="Category Sales and Growth Contribution" width="700">
 </p>  
 
 **4. Seller Sales Distribution**
 <p align="center">
-  <img src="seller_segmentation.png" alt="Seller Sales Distribution" width="700">
+  <img src="image/seller_segmentation.png" alt="Seller Sales Distribution" width="700">
 </p>  
 
 
 ### Forecast Analysis
 <p align="center">
-  <img src="forecast1.png" alt="forecast1" width="700">
+  <img src="image/forecast1.png" alt="forecast1" width="700">
 </p>  
 <p align="center">
-  <img src="forecast2.png" alt="forecast2" width="700">
+  <img src="image/forecast2.png" alt="forecast2" width="700">
 </p>  
 <p align="center">
-  <img src="forecast3.png" alt="forecast3" width="700">
+  <img src="image/forecast3.png" alt="forecast3" width="700">
 </p>  
 
 ## Data Sources
