@@ -1,9 +1,9 @@
 This project features a business performance dashboard and a detailed analysis of e-commerce data to uncover key insights into revenue performance, growth trends, product sales dynamics, and regional performance. The following tools were utilized for efficient data manipulation and analysis:<br>
 
-- **SQL**: Data querying, extraction, and cleaning. [SQL script](script/E_Commerce_SQL.sql)  
-- **Tableau**: Development of interactive dashboards for visual data storytelling. [Tableau workbook](script/Performance_Dashboard.twb)  
+- **SQL**: Data querying, extraction, and cleaning. [SQL script](https://github.com/BubbleZL/Data_Portfolio_Ecommerce/blob/main/script/E_Commerce_SQL.sql)  
+- **Tableau**: Development of interactive dashboards for visual data storytelling. [Tableau workbook](https://github.com/BubbleZL/Data_Portfolio_Ecommerce/blob/main/script/Performance_Dashboard.twb)  
 - **Excel**: Exploratory data analysis, growth analysis, and segmentation analysis.  
-- **Python**: Revenue forecasting and advanced statistical modeling. [Python script](script/sales_forecast.ipynb)  
+- **Python**: Revenue forecasting and advanced statistical modeling. [Python script](https://github.com/BubbleZL/Data_Portfolio_Ecommerce/blob/main/script/sales_forecast.ipynb)  
 
 ## Data Visualization
 ![Business Performance Dashboard](image/dashboard.png)
